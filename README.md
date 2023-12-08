@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gauri Shankar Sharma</h1>
-<h3 align="center">A passionate mobile application developer</h3>
+<h1 align="right">Hi 👋, I'm Gauri Shankar Sharma</h1>
+<h3 align="right">A passionate mobile application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurishankar007&label=Profile%20views&color=0e75b6&style=flat" alt="gaurishankar007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurishankar007" alt="gaurishankar007" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
