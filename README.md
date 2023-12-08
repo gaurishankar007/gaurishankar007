@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Gauri Shankar Sharma</h1>
-<h3 align="right">A passionate mobile application developer</h3>
+<h1 align="left">Hi 👋, I'm Gauri Shankar Sharma</h1>
+<h3 align="left">A passionate mobile application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurishankar007&label=Profile%20views&color=0e75b6&style=flat" alt="gaurishankar007" /> </p>
 
