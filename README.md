@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gauri Shankar Sharma</h1>
-<h3 align="left">A passionate mobile application developer, 💡- code -📱- 🚀🚀🚀</h3>
+<h3 align="left">
+  A passionate mobile application developer, 💡- code -📱- 🚀🚀🚀
+</h3>
 
 <p align="left">
   <img
@@ -8,7 +10,7 @@
   />
 </p>
 
-<h4 align="left">Connect with me</h4>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/gauri-shankar-sharma-05809a24a/"
@@ -22,8 +24,8 @@
   /></a>
 </p>
 
-<h4 align="left">Languages and Tools</h4>
-<h3 align="left">Mobile Application:</h3>
+<h3 align="left">Languages and Tools</h3>
+<h4 align="left">Mobile Application:</h4>
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img
@@ -59,7 +61,7 @@
   </a>
 </p>
 
-<h3 align="left">Backend:</h3>
+<h4 align="left">Backend:</h4>
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -129,7 +131,7 @@
   </a>
 </p>
 
-<h3 align="left">Web Frontend:</h3>
+<h4 align="left">Web Frontend:</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -165,7 +167,7 @@
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h4 align="left">Tools:</h4>
 <p align="left">
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
@@ -196,7 +198,7 @@
   </a>
 </p>
 
-<h3 align="left">Version Controlling:</h3>
+<h4 align="left">Version Controlling:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
