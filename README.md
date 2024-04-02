@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gauri Shankar Sharma</h1>
-<h3 align="left">
+<h2 align="left">
   A passionate mobile application developer, 💡- code -📱- 🚀🚀🚀
-</h3>
+</h2>
 
 <p align="left">
   <img
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/gauri-shankar-sharma-05809a24a/"
+    href="https://www.linkedin.com/in/gauri-shankar-sharma-05809a24a/"
     target="blank"
     ><img
       align="center"
@@ -210,7 +210,7 @@
   </a>
 </p>
 
-<h3 align="left">Activities:</h3>
+<h3 align="left">Activities</h3>
 <p>
   <img
     align="left"
