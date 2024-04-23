@@ -75,6 +75,10 @@
       height="40"
     />
   </a>
+</p>
+
+<h4 align="left">Backend Application:</h4>
+<p align="left">  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -83,10 +87,6 @@
       height="40"
     />
   </a>
-</p>
-
-<h4 align="left">Backend Application:</h4>
-<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
