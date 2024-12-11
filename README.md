@@ -133,7 +133,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishankar007"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishankar007&"
     alt="Streak Stats"
   />
 </p>
