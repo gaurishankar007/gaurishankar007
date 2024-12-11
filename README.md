@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gauri Shankar Sharma</h1>
 <h2 align="left">
-  🚀 Passionate Mobile Application Developer | 💡 Crafting Ideas into Apps | 📱 Flutter Enthusiast
+  🚀 Passionate Mobile Application Developer | 💡 Crafting Ideas into Apps
 </h2>
 
 <p align="left">
@@ -46,6 +46,14 @@
     <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
       alt="flutter"
+      width="55"
+      height="55"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="padding: 10px;">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
       width="55"
       height="55"
     />
