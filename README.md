@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gauri Shankar Sharma</h1>
 <h2 align="left">
-  🚀 Passionate Mobile Application Developer | 💡 Crafting Ideas into Apps
+  ✨ Passionate Mobile App Developer | 💡 Crafting Ideas into Engaging Apps
 </h2>
 
 <p align="left">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  I am currently working as a **Flutter Developer**, and my expertise lies in **Dart** and the **Flutter framework**. I am passionate about creating seamless and engaging mobile applications and also interested in **iOS development with Swift**. My aspiration is to become a full-stack mobile application developer by mastering backend development skills.
+  A Flutter developer focused on creating engaging, high-performance mobile applications. I'm also interested in Swift and aspire to become a full-stack mobile developer.
 </p>
 
 <h3 align="left">Connect with Me</h3>
@@ -62,7 +62,7 @@
 
 <h4 align="left">Backend and Database Development</h4>
 <p align="left">
-  I have experience in backend development with **Node.js**, **Express.js**, and **Django** and database management with **MongoDB**, **MySQL**, and **PostgreSQL**.
+  I have backend development experience with Node.js/Express.js and Django, using databases like MongoDB and SQLite.
 </p>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="padding: 10px;">
