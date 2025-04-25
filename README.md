@@ -11,9 +11,10 @@
 </p>
 
 <p align="left">
-  Hi there! 👋 I'm a passionate mobile application developer with 3+ years of experience. Currently, I am crafting mobile apps for Android and iOS 📱 with flutter. I'm passionate about creating innovative, user-friendly experiences 🚀 and always eager to explore new possibilities. I've shipped apps to Google Play and App Store, adhering to platform guidelines 🛠️.
+  Hi there! 👋
+I'm a software engineer with over 3 years of experience building cross-platform applications using Flutter 🐦. I've successfully delivered apps for Android 🤖, iOS 🍎, and the Web 🌐—following platform-specific guidelines and focusing on intuitive user experiences.
 
-  Beyond Flutter, I'm also interested in native iOS app development and I have a good foundation in backend development with Firebase and Node.js. 💻 I'm a dedicated learner, always seeking new challenges and opportunities to grow 🚀.
+🔗 Along the way, I’ve worked with Firebase 🔥, Supabase 🛡️, and Node.js 💻 to integrate robust backend services. 💡 I'm always enthusiastic about exploring new technologies, solving complex problems, and embracing challenges that help me grow professionally. 🚀
 </p>
 
 <h3 align="left">Connect with Me</h3>
@@ -52,8 +53,16 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="padding: 20px;">
     <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      src="https://www.gstatic.com/devrel-devsite/prod/v02f7c7b934487be255c5f28ebb00ed6c2fde7a607ac1d91773e0036b0a06ec31/firebase/images/touchicon-180.png"
       alt="firebase"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer" style="padding: 20px;">
+    <img
+      src="https://cdn.simpleicons.org/supabase/3ECF8E"
+      alt="supabase"
       width="60"
       height="60"
     />
