@@ -12,9 +12,9 @@
 
 <p align="left">
 Hi there! 👋,
-I'm a software engineer with over 4 years of experience in Flutter 🐦. I've delivered apps for Android 🤖, iOS 🍎, and the Web 🌐 with flutter. Recently, I also have been exploring native iOS development with Swift/SwiftUI and excited to launch iOS products soon.
+I'm a software engineer with over 4 years of experience in Flutter 🐦. I've delivered apps for Android 🤖, iOS 🍎, and the Web 🌐 with flutter. Recently, I have been exploring native iOS development with Swift/SwiftUI and excited to launch iOS products soon.
 
-🔗 Along the way, I’ve worked with Firebase 🔥, Supabase 🛡️, and Node.js 💻 to integrate robust backend services. I am always excited to explore more and grow professionally 🚀.
+🔗 Along the way, I’ve also worked with Firebase 🔥, Supabase 🛡️, and Node.js 💻 to integrate robust backend services. I am always excited to explore more and grow professionally 🚀.
 </p>
 
 <h3 align="left">Connect with Me</h3>
