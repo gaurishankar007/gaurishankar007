@@ -14,7 +14,7 @@
 Hi there! 👋,
 I'm a software engineer with over 3 years of experience in Flutter 🐦 and I've delivered apps for Android 🤖, iOS 🍎, and the Web 🌐 with it. Recently, I have been exploring native iOS development with Swift/SwiftUI.
 
-🔗 Along the way, I’ve also worked with Firebase 🔥, Supabase 🛡️, and Node.js 💻 to integrate robust backend services. I am always excited to explore more and grow professionally 🚀.
+🔗 Along the way, I’ve also worked with Node.js 💻, Firebase 🔥, and Supabase 🛡️ to integrate robust backend services. I am always excited to explore more and grow professionally 🚀.
 </p>
 
 <h3 align="left">Connect with Me</h3>
@@ -63,6 +63,14 @@ I'm a software engineer with over 3 years of experience in Flutter 🐦 and I've
     <img
       src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"
       alt="swiftui"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding: 20px;">
+    <img
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+      alt="javascript"
       width="60"
       height="60"
     />
