@@ -11,10 +11,11 @@
 </p>
 
 <p align="left">
-Hi there! 👋,
-I'm a software engineer with over 3 years of experience in Flutter 🐦 and I've delivered apps for Android 🤖, iOS 🍎, and the Web 🌐 with it. Recently, I have been exploring native iOS development with Swift/SwiftUI.
+Hi there! 👋
 
-🔗 Along the way, I’ve also worked with Node.js 💻, Firebase 🔥, and Supabase 🛡️ to integrate robust backend services. I am always excited to explore more and grow professionally 🚀.
+I'm a software engineer with over 3 years of experience specializing in Flutter 🐦, delivering high-quality Android 🤖, iOS 🍎, and Web 🌐 apps. In addition, I have hands-on expertise in native iOS development using Swift/SwiftUI, as well as backend development with Node.js 💻 and cloud services like Firebase 🔥.
+
+I’m passionate about building impactful software and constantly exploring new technologies 🚀 to create innovative solutions.
 </p>
 
 <h3 align="left">Connect with Me</h3>
