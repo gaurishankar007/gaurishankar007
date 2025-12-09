@@ -13,7 +13,7 @@
 <p align="left">
 Hi there! 👋
 
-I'm a software engineer with over 3 years of experience specializing in Flutter 🐦, delivering high-quality Android 🤖, iOS 🍎, and Web 🌐 apps. In addition, I have hands-on expertise in native iOS development using Swift/SwiftUI, as well as backend development with Node.js 💻 and cloud services like Firebase 🔥.
+I'm a **Full Stack Engineer** with over 3 years of experience in **Flutter** 🐦, delivering high-quality Android 🤖, iOS 🍎, and Web 🌐 apps. In addition, I have hands-on expertise in backend development with **Node.js** 💻 and **Cloud Services** like Firebase 🔥, as well as native iOS development with **SwiftUI**.
 
 I'm passionate about building impactful software and constantly exploring new technologies 🚀 to create innovative solutions.
 </p>
@@ -138,27 +138,4 @@ I'm passionate about building impactful software and constantly exploring new te
       height="60"
     />
   </a>
-</p>
-
-<h3 align="left">My Activities</h3>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurishankar007&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=gaurishankar007&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-</p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishankar007&"
-    alt="Streak Stats"
-  />
 </p>
