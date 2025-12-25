@@ -41,179 +41,154 @@
 <h3 align="left">Tech Stack</h3>
 
 <!-- Frontend -->
-<div
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: flex-start;
-    margin-bottom: 20px;
-  "
->
-  <div style="text-align: center; margin: 10px">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="Flutter"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>Flutter</strong>
-  </div>
-
-  <div style="text-align: center; margin: 10px">
-    <a
-      href="https://developer.apple.com/xcode/swiftui/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"
-        alt="SwiftUI"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>SwiftUI</strong>
-  </div>
-
-  <div style="text-align: center; margin: 10px">
-    <a
-      href="https://github.com/schultek/jaspr"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/schultek/jaspr/main/assets/logo.png"
-        alt="Jaspr"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>Jaspr</strong>
-  </div>
-</div>
+<table align="left" border="0" cellpadding="10">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+          alt="Flutter"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Flutter</strong>
+    </td>
+    <td align="center" width="100">
+      <a
+        href="https://developer.apple.com/xcode/swiftui/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"
+          alt="SwiftUI"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>SwiftUI</strong>
+    </td>
+    <td align="center" width="100">
+      <a
+        href="https://github.com/schultek/jaspr"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://raw.githubusercontent.com/schultek/jaspr/main/assets/logo.png"
+          alt="Jaspr"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Jaspr</strong>
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 <!-- Backend -->
-<div
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: flex-start;
-    margin-bottom: 20px;
-  "
->
-  <div style="text-align: center; margin: 10px">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-        alt="Node.js"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>Node.js</strong>
-  </div>
-
-  <div style="text-align: center; margin: 10px">
-    <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
-        alt="Dart Frog"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>Dart Frog</strong>
-  </div>
-
-  <div
-    style="
-      width: 2px;
-      height: 80px;
-      background-color: #e0e0e0;
-      margin: 0 20px;
-      align-self: center;
-    "
-  ></div>
-
-  <div style="text-align: center; margin: 10px">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-        alt="MongoDB"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>MongoDB</strong>
-  </div>
-
-  <div style="text-align: center; margin: 10px">
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-        alt="PostgreSQL"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>PostgreSQL</strong>
-  </div>
-</div>
+<table align="left" border="0" cellpadding="10">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+          alt="Node.js"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
+          alt="Dart Frog"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Dart Frog</strong>
+    </td>
+    <td
+      align="center"
+      style="border-right: 2px solid #e0e0e0; height: 80px; padding: 0 20px"
+    ></td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+          alt="MongoDB"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>MongoDB</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+          alt="PostgreSQL"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>PostgreSQL</strong>
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 <!-- BaaS -->
-<div
-  align="left"
-  style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start"
->
-  <div style="text-align: center; margin: 10px">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="Firebase"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>Firebase</strong>
-  </div>
-
-  <div style="text-align: center; margin: 10px">
-    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
-        alt="Supabase"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>Supabase</strong>
-  </div>
-
-  <div style="text-align: center; margin: 10px">
-    <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-        alt="AppWrite"
-        width="60"
-        height="60"
-      />
-    </a>
-    <br />
-    <strong>AppWrite</strong>
-  </div>
-</div>
+<table align="left" border="0" cellpadding="10">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+          alt="Firebase"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Firebase</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
+          alt="Supabase"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Supabase</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
+          alt="AppWrite"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>AppWrite</strong>
+    </td>
+  </tr>
+</table>
+<br clear="both" />
