@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="100">
       <a
-        href="https://developer.apple.com/xcode/swiftui/"
+        href="https://developer.apple.com/swiftui/"
         target="_blank"
         rel="noreferrer"
       >
@@ -71,11 +71,7 @@
       <strong>SwiftUI</strong>
     </td>
     <td align="center" width="100">
-      <a
-        href="https://github.com/schultek/jaspr"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <a href="https://jaspr.site/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/schultek/jaspr/main/assets/logo.png"
           alt="Jaspr"
