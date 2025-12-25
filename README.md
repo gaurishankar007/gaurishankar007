@@ -11,10 +11,9 @@
 </p>
 
 <p align="left">
-  A **Full Stack Engineer** with over 4 years of experience delivering
-  high-quality Android 🤖, iOS 🍎, and Web 🌐 apps, specializing in **Flutter**.
-  In addition, I have hands-on expertise in **Backend Development** 💻 and
-  **Cloud Services** ☁️.
+  A Full Stack Engineer with over 4 years of experience delivering high-quality
+  Android 🤖, iOS 🍎, and Web 🌐 apps, specializing in Flutter. In addition, I
+  have hands-on expertise in Backend Development 💻 and Cloud Services ☁️.
 </p>
 
 <p align="left">
