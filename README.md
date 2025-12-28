@@ -66,7 +66,7 @@
       <br />
       <strong>Jaspr</strong>
     </td>
-     <td align="center" width="100">
+    <td align="center" width="100">
       <a
         href="https://developer.apple.com/swiftui/"
         target="_blank"
@@ -89,7 +89,31 @@
 <!-- Backend -->
 <table align="left" border="0" cellpadding="10">
   <tr>
-     <td align="center" width="100">
+    <td align="center" width="100">
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          alt="Express.js"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Express.js</strong>
+    </td>
+    <td align="center" width="100">
+      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
+          alt="NestJS"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>NestJS</strong>
+    </td>
+    <td align="center" width="100">
       <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
@@ -100,18 +124,6 @@
       </a>
       <br />
       <strong>DartFrog</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-          alt="Node.js"
-          width="60"
-          height="60"
-        />
-      </a>
-      <br />
-      <strong>Node.js</strong>
     </td>
     <td
       align="center"
