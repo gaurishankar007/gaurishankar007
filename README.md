@@ -55,6 +55,18 @@
       <strong>Flutter</strong>
     </td>
     <td align="center" width="100">
+      <a href="https://jaspr.site/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/schultek/jaspr/main/assets/logo.png"
+          alt="Jaspr"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>Jaspr</strong>
+    </td>
+     <td align="center" width="100">
       <a
         href="https://developer.apple.com/swiftui/"
         target="_blank"
@@ -70,18 +82,6 @@
       <br />
       <strong>SwiftUI</strong>
     </td>
-    <td align="center" width="100">
-      <a href="https://jaspr.site/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/schultek/jaspr/main/assets/logo.png"
-          alt="Jaspr"
-          width="60"
-          height="60"
-        />
-      </a>
-      <br />
-      <strong>Jaspr</strong>
-    </td>
   </tr>
 </table>
 <br clear="both" />
@@ -89,6 +89,18 @@
 <!-- Backend -->
 <table align="left" border="0" cellpadding="10">
   <tr>
+     <td align="center" width="100">
+      <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
+          alt="Dart Frog"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>DartFrog</strong>
+    </td>
     <td align="center" width="100">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
@@ -100,18 +112,6 @@
       </a>
       <br />
       <strong>Node.js</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
-          alt="Dart Frog"
-          width="60"
-          height="60"
-        />
-      </a>
-      <br />
-      <strong>Dart Frog</strong>
     </td>
     <td
       align="center"
