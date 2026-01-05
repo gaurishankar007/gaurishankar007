@@ -90,6 +90,18 @@
 <table align="left" border="0" cellpadding="10">
   <tr>
     <td align="center" width="100">
+      <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
+          alt="Dart Frog"
+          width="60"
+          height="60"
+        />
+      </a>
+      <br />
+      <strong>DartFrog</strong>
+    </td>
+    <td align="center" width="100">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
           src="https://skillicons.dev/icons?i=express"
@@ -112,18 +124,6 @@
       </a>
       <br />
       <strong>NestJS</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://dartfrog.vgv.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog.png"
-          alt="Dart Frog"
-          width="60"
-          height="60"
-        />
-      </a>
-      <br />
-      <strong>DartFrog</strong>
     </td>
     <td
       align="center"
